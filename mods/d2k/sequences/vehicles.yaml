@@ -1,7 +1,64 @@
 mcv:
-	idle: DATA.R8
-		Start: 1795
-		Facings: -32
+	idle:
+		Combine:
+			bits/sc/z/zl.png.shp:
+				Start: 0
+				Length: 2
+			bits/sc/z/zl.png.shp:
+				Start: 2
+				Length: 2
+			bits/sc/z/zl.png.shp:
+				Start: 4
+				Length: 2
+			bits/sc/z/zl.png.shp:
+				Start: 6
+				Length: 2
+			bits/sc/z/zl.png.shp:
+				Start: 8
+				Length: 2
+			bits/sc/z/zl.png.shp:
+				Start: 10
+				Length: 2
+			bits/sc/z/zl.png.shp:
+				Start: 12
+				Length: 2
+			bits/sc/z/zl.png.shp:
+				Start: 14
+				Length: 2
+			bits/sc/z/zl.png.shp:
+				Start: 14
+				Length: 2
+				FlipX: true
+			bits/sc/z/zl.png.shp:
+				Start: 12
+				Length: 2
+				FlipX: true
+			bits/sc/z/zl.png.shp:
+				Start: 10
+				Length: 2
+				FlipX: true
+			bits/sc/z/zl.png.shp:
+				Start: 8
+				Length: 2
+				FlipX: true
+			bits/sc/z/zl.png.shp:
+				Start: 6
+				Length: 2
+				FlipX: true
+			bits/sc/z/zl.png.shp:
+				Start: 5
+				Length: 2
+				FlipX: true
+			bits/sc/z/zl.png.shp:
+				Start: 4
+				Length: 2
+				FlipX: true
+			bits/sc/z/zl.png.shp:
+				Start: 2
+				Length: 2
+				FlipX: true
+		Length: 2
+		Facings: -16
 	icon: DATA.R8
 		Start: 4284
 		Offset: -30,-24
